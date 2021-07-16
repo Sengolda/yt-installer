@@ -1,0 +1,4 @@
+click
+youtube_dl
+youtube-search==2.1.0
+youtube-search-python==1.4.5
