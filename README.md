@@ -6,7 +6,7 @@
 py -3 -m pip install -U -r req.txt
 ```
 ```
-py3 main.py --query=NAME_OF_VIDEO_HERE
+py -3 main.py --query=NAME_OF_VIDEO_HERE
 ```
 - Linux & MacOS
 ```
